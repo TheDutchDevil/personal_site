@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Nathan Cassee"
 title_separator          : ""
 name                     : &name "Nathan Cassee"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Technology Eindhoven"
+  bio              : "Hi, I'm Nathan, a PhD student at University of Technology Eindhoven"
   location         : "Eindhoven, The Netherlands"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
