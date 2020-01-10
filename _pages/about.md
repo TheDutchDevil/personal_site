@@ -16,7 +16,7 @@ I'm focusing on how emotions, and more specifically, anger is expressed by open 
 how the expression of emotions, and especially anger, influences Software Engineering. 
 
 However, I've also studied code reviews and continuous integration, error handling by Apple Swift developers, and GPU-accelerated 
-model checking. For a complete overview of my work please check out the list of [publications](/Publications). 
+model checking. For a complete overview of my work please check out the list of [publications](publications). 
 
 Background
 ========
