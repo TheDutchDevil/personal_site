@@ -12,8 +12,11 @@ I'm a first year PhD-TA student at the
 [Software Engineering and Technology](https://www.tue.nl/en/research/research-groups/software-engineering-and-technology/) 
 group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of 
 [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/). My research interest is human aspects of Software Engineering, and currently
-I'm focusing on how emotions, and more specifically, anger is expressed by open source software developers. 
-Say something about publications. 
+I'm focusing on how emotions, and more specifically, anger is expressed by open source software developers. And
+how the expression of emotions, and especially anger, influences Software Engineering. 
+
+However, I've also studied code reviews and continuous integration, error handling by Apple Swift developers, and GPU-accelerated 
+model checking. For a complete overview of my work please check out the list of [publications](/Publications). 
 
 Background
 ========
