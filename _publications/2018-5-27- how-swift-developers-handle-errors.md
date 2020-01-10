@@ -2,7 +2,7 @@
 title: " How Swift developers handle errors"
 collection: publications
 permalink: /publication/2018-5-27- how-swift-developers-handle-errors
-authors: "N. Cassee, G. Pinto, F. Castor and A. Serebrenik"
+authors: N. Cassee, G. Pinto, F. Castor and A. Serebrenik
 excerpt: ' Mixed-method study investigation the error handling patterns of Swift developers.'
 date: 2018-5-27
 type: Conference
