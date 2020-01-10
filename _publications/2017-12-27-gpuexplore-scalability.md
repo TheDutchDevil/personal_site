@@ -2,6 +2,7 @@
 title: "On the scalability of the gpuexplore explicit-state model checker"
 collection: publications
 permalink: /publication/2017-12-27-gpuexplore-scalability
+authorsN. Cassee, T. Neele, and A. Wijs
 date: 2017-12-27
 type: Workshop
 venue: 'Graphs as Models (GAM)'

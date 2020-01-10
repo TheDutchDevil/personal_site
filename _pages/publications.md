@@ -15,7 +15,7 @@ Conferences
 
 {% for post in site.publications reversed %}
   {% if post.type == "Conference" %}
-    {% include archive-single.html %}
+    {% include slim-pub.html %}
   {% endif %}
 {% endfor %}
 
@@ -24,6 +24,6 @@ Workshops
 
 {% for post in site.publications reversed %}
   {% if post.type == "Workshop" %}
-    {% include archive-single.html %}
+    {% include slim-pub.html %}
   {% endif %}
 {% endfor %}
