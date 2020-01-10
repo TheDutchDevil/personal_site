@@ -5,14 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-See below for list of publications sorted on the type of venue where the work has been published,
-or check out my [Google Scholar profile]({{author.googlescholar}}).
+See below for list of publications sorted on the type of venue where the work has been published. If
+you have any questions do not hesitate to contact me.
 
 Conferences
 ========
