@@ -79,6 +79,8 @@ for row, item in publications.iterrows():
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
+
+    md += "\ntype: " + str(item.type)
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     

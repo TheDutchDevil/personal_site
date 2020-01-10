@@ -11,6 +11,20 @@ author_profile: true
 
 {% include base_path %}
 
+Conferences
+========
+
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.type == "Conference" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+Workshops
+======
+
+{% for post in site.publications reversed %}
+  {% if post.type == "Workshop" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
