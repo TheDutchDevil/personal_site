@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+See below for list of publications sorted on the type of venue where the work has been published,
+or check out my [Google Scholar profile]({{author.googlescholar}}).
 
 Conferences
 ========
