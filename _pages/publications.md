@@ -10,7 +10,7 @@ author_profile: true
 See below for list of publications sorted on the type of venue where the work has been published. If
 you have any questions do not hesitate to contact me.
 
-Conferences
+Conference papers
 ========
 
 {% for post in site.publications reversed %}
@@ -19,7 +19,7 @@ Conferences
   {% endif %}
 {% endfor %}
 
-Workshops
+Workshop papers
 ======
 
 {% for post in site.publications reversed %}
