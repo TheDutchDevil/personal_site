@@ -3,11 +3,11 @@
 <div class="{{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-        <p>[{{ post.date | date: '%yyyy'}}] <b>{{ post.title }}</b> &mdash; <i>{{ post.authors }}</i>
+        <p>[{{ post.date | date: '%Y'}}] <b>{{ post.title }}</b> &mdash; <i>{{ post.authors }}</i>
         
             Published at {{ post.venue }}. <a href=" {{ post.paperurl }} "><u>Preprint</u></a>. 
         </p>
-              
+
     </article>
   </div>
   
