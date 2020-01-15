@@ -29,8 +29,3 @@ my PhD-TA.
 During my masters I've worked part-time as a DevOps engineer at [Spendlab Technology](https://www.spendlab.com/home). 
 While there I've worked on implementing a big-data system that can efficiently process and analyze large amounts
 of payment data. 
-
-PhD-TA
-========
-
-Something about PhD and education. 
