@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Cassee"
+title                    : "Portfolio"
 title_separator          : ""
 name                     : &name "Nathan Cassee"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Hi, I'm Nathan, a PhD student at University of Technology Eindhoven"
+  bio              : "Welcome to my site, I'm Nathan, a PhD student at the Computer Science department of the TU/e"
   location         : "Eindhoven, The Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
