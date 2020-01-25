@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD-TA student at the 
+Hiya, I'm Nathan, a first year PhD-TA student at the 
 [Software Engineering and Technology](https://www.tue.nl/en/research/research-groups/software-engineering-and-technology/) 
 group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of 
 [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/). My research interest is human aspects of Software Engineering, and currently
@@ -21,7 +21,7 @@ model checking. For a complete overview of my work please check out the list of 
 Background
 ========
 
-In 2015 I received my bachelor's in Software Engineering from Fontys University of Applied Science,
+In 2015 I received my bachelors in Software Engineering from Fontys University of Applied Science,
 after which I enrolled in a pre-master and master in Computer Science and Engineering at Eindhoven
 University of Technology. In May of 2019 I received my masters Cum Laude and in October 2019 I started
 my PhD-TA. 
