@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Welcome to my site, I'm Nathan, a PhD student at the Computer Science department of the TU/e"
+  bio              : "I'm a PhD student at the Computer Science department of the TU/e working on human aspects of Software Engineering"
   location         : "Eindhoven, The Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
@@ -104,7 +104,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/2828908/thedutchdevil
   steam            :
   tumblr           :
   twitter          : "NathanCassee"
