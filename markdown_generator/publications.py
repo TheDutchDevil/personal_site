@@ -36,6 +36,8 @@ import pandas as pd
 
 publications = pd.read_csv("publications.csv", header=0)
 
+publications = publications.fillna('')
+
 
 # ## Escape special characters
 # 
@@ -89,10 +91,10 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
 
-    if len(str(item.slides_url)) > 5:
-        md += "\nslidesurl: '" + item.slides_url + "'"
-        
-    if len(str(item.repo_url)) > 5:
+    if len(item.slides_url) >= 0:
+        md += "\nslidesurl: '" + item.slides_url + "'"      
+
+    if len(item.repo_url) >= 0:
         md += "\nrepourl: '" + item.repo_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
@@ -113,5 +115,3 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-

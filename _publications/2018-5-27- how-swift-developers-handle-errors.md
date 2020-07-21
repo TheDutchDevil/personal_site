@@ -8,6 +8,8 @@ date: 2018-5-27
 type: Conference
 venue: ' Mining Software Repositories (MSR)'
 paperurl: ' https://cassee.dev/files/swift_errors.pdf   '
+slidesurl: ''
+repourl: ''
 citation: 'N. Cassee, G. Pinto, F. Castor and A. Serebrenik, &quot;How Swift Developers Handle Errors,&quot; 2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR), Gothenburg, 2018, pp. 292-302.'
 ---
 

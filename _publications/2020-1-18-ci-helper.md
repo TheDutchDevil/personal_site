@@ -7,6 +7,8 @@ date: 2020-1-18
 type: Conference
 venue: 'Software Analysis, Evolution and Reengineering (SANER)'
 paperurl: 'https://cassee.dev/files/CI-silent.pdf'
+slidesurl: 'https://cassee.dev/files/slides/SANER_2020.pdf'
+repourl: 'https://github.com/TheDutchDevil/code_reviews'
 citation: 'empty'
 ---
 

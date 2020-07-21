@@ -5,9 +5,9 @@
 
         <p>[{{ post.date | date: '%Y'}}] <b>{{ post.title }}</b> &mdash; <i>{{ post.authors }}</i>
             <br>
-            Published at {{ post.venue }}. <a href=" {{ post.paperurl }} " onclick="ga('send','event','Clicks','Paper download',' {{ post.title }}', 0)"><u>Preprint</u></a>. 
-            {{#if post.slidesurl}} <a href=" {{ post.slidesurl }} " onclick="ga('send','event','Clicks','Slides download',' {{ post.title }}', 0)"><u>Slides</u></a>. {{/if}}
-            {{#if post.repourl}} <a href=" {{ post.repourl }} " onclick="ga('send','event','Clicks','Repo url',' {{ post.title }}', 0)"><u>Repository</u></a>. {{/if}}
+            Published at {{ post.venue }}. <a href=" {{ post.paperurl }} " onclick="ga('send','event','Clicks','Paper download','{{ post.title }}', 0)"><u>Preprint</u></a>. 
+            {% if post.slidesurl.size > 0 %} { } <a href=" {{ post.slidesurl }} " onclick="ga('send','event','Clicks','Slides download','{{ post.title }}', 0)"><u>Slides</u></a>. {% endif %}
+            {% if post.repourl.size > 0  %} <a href=" {{ post.repourl }} " onclick="ga('send','event','Clicks','Repo url','{{ post.title }}', 0)"><u>Repository</u></a>. {% endif %}
         </p>
 
     </article>

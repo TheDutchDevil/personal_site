@@ -7,6 +7,8 @@ date: 2017-12-27
 type: Workshop
 venue: 'Graphs as Models (GAM)'
 paperurl: 'https://cassee.dev/files/gpu-hashtables.pdf'
+slidesurl: ''
+repourl: ''
 citation: 'Cassee, Nathan, and Anton Wijs. &quot;Analysing the Performance of GPU Hash Tables for State Space Exploration.&quot; Electronic Proceedings in Theoretical Computer Science 263 (2017): 1-15. Crossref. Web.'
 ---
 
