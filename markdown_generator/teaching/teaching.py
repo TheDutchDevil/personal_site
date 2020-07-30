@@ -33,9 +33,9 @@ def html_escape(text):
 import os
 for row, item in publications.iterrows():
     
-    md_filename = str(item.teaching_date) + "-" + item.course_name + ".md"
-    html_filename = str(item.teaching_date) + "-" + item.course_name
-    year = item.teaching_date[:4]
+    md_filename = str(item.date) + "-" + item.course_name + ".md"
+    html_filename = str(item.date) + "-" + item.course_name
+    year = item.when[:4]
     
     ## YAML variables
     
@@ -47,7 +47,9 @@ for row, item in publications.iterrows():
     
     md += "\ndescription: '" + html_escape(item.course_description) + "'"
     
-    md += "\nwhen: '" + str(item.teaching_date) +"'"
+    md += "\nwhen: '" + str(item.when) +"'"
+
+    md += "\ndate: " + str(item.date)
     
     md += "\nrole: '" + html_escape(item.course_role) + "'"
     
