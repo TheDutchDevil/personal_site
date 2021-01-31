@@ -12,7 +12,7 @@ Hiya, I'm Nathan, a first year PhD-TA student at the
 [Software Engineering and Technology](https://www.tue.nl/en/research/research-groups/software-engineering-and-technology/) 
 group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of 
 [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/). My research interest is human aspects of Software Engineering, and currently
-I'm focusing on how emotions, and more specifically, anger is expressed by open source software developers. And
+I'm focusing on how emotions, and in particular, anger is expressed by open source software developers. And
 how the expression of emotions, and especially anger, influences Software Engineering. 
 
 However, I've also studied code reviews and continuous integration, error handling by Apple Swift developers, and GPU-accelerated 
