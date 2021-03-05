@@ -188,6 +188,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path
+  stuff:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -221,6 +224,14 @@ defaults:
   - scope:
       path: ""
       type: awards
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _posts
+  - scope:
+      path: ""
+      type: stuff
     values:
       layout: single
       author_profile: true
