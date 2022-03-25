@@ -6,12 +6,12 @@ authors: G. Fucci, N. Cassee, F. Zampetti, N. Novielli, A. Serebrenik, M. Di Pen
 date: 2021-5-17
 type: Conference
 venue: 'Mining Software Repositories (MSR)'
-paperurl: 'https://cassee.dev/files/MSR2021.pdf'
+paperurl: 'https://cassee.dev/files/waiting-around.pdf'
 slidesurl: ''
 repourl: ''
 citation: 'Fucci, G., Cassee, N. W., Zampetti, F., Novielli, N., Serebrenik, A., &amp; Di Penta, M. (Accepted/In press). Waiting around or job half-done? Sentiment in self-admitted technical debt. In International Conference on Mining Software Repositories IEEE Computer Society.'
 ---
 
-<a href='https://cassee.dev/files/MSR2021.pdf'>Download paper here</a>
+<a href='https://cassee.dev/files/waiting-around.pdf'>Download paper here</a>
 
 Recommended citation: Fucci, G., Cassee, N. W., Zampetti, F., Novielli, N., Serebrenik, A., & Di Penta, M. (Accepted/In press). Waiting around or job half-done? Sentiment in self-admitted technical debt. In International Conference on Mining Software Repositories IEEE Computer Society.
