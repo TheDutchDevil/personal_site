@@ -15,6 +15,36 @@
             "venue": "MSR, Mining Challenge",
             "filename": "asfbot.pdf",
             "date": "2022-05-24"
+        },
+        {
+            "id": "om-slr",
+            "type": "Journal",
+            "title": "Opinion Mining for Software Development: A Systematic Literature Review",
+            "authors": [
+                "Bin Lin",
+                "Nathan Cassee",
+                "Alexander Serebrenik", 
+                "Gabriele Bavota",
+                "Nicole Novielli",
+                "Michele Lanza"
+            ],
+            "venue": "TOSEM",
+            "filename": "om-slr.pdf",
+            "date": "2022-07-01"
+        },
+        {
+            "id": "mixed",
+            "type": "Conference",
+            "title": "Human, Bot or Both? A study on the capabilities of classification models on mixed accounts",
+            "authors": [
+                "Nathan Cassee",
+                "Christos Kitsanelis",
+                "Eleni Constantinou",
+                "Alexander Serebrenik"
+            ],
+            "venue": "ICSME, NIER Track",
+            "filename": "bot_or_not.pdf",
+            "date": "2021--09-28"
         }
     ]
 }
