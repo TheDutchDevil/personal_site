@@ -97,6 +97,7 @@ for row, item in publications.iterrows():
     if len(item.repo_url) >= 0:
         md += "\nrepourl: '" + item.repo_url + "'"
     
+
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
@@ -109,8 +110,69 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    if len(item.citation) > 0:
+        md += "\nRecommended citation: " + item.citation
     
+    md_filename = os.path.basename(md_filename)
+       
+    with open("../_publications/" + md_filename, 'w') as f:
+        f.write(md)
+
+
+import json
+
+with open('publications.json', 'r') as f:
+  data = json.load(f)
+
+publications = data["publications"]
+
+for paper in publications:
+    author_strings = []
+    for author in paper["authors"]:
+        first_name = author.split(" ")[0]
+        last_name = author.split(" ")[1]
+
+        author_strings.append(f"{first_name[0]}. {last_name}")
+
+    author_string = ", ".join(author_strings)
+
+    paper_url = f"https://cassee.dev/files/{paper['filename']}"
+    
+    md_filename = paper["date"] + "-" + paper["id"] + ".md"
+    html_filename = paper["date"] + "-" + paper["id"]
+    year = paper["date"][:4]
+    
+    ## YAML variables
+    
+    md = "---\ntitle: \""   + paper["title"] + '"\n'
+    
+    md += """collection: publications"""
+    
+    md += """\npermalink: /publication/""" + html_filename
+
+    md += "\nauthors: " + author_string 
+    
+    md += "\ndate: " + paper["date"]
+
+    md += "\ntype: " + paper["type"]
+    
+    md += "\nvenue: '" + html_escape(paper["venue"]) + "'"
+    
+    md += "\npaperurl: '" + paper_url + "'"
+
+    if "slides_url" in paper >= 0:
+        md += "\nslidesurl: '" + paper["slides_url"] + "'"      
+
+    if "repo_url" in paper >= 0:
+        md += "\nrepourl: '" + paper["repo_url"] + "'"
+    
+    
+    md += "\n---"
+    
+    ## Markdown description for individual page
+    
+    md += "\n\n<a href='" + paper_url + "'>Download paper here</a>\n" 
+        
     md_filename = os.path.basename(md_filename)
        
     with open("../_publications/" + md_filename, 'w') as f:

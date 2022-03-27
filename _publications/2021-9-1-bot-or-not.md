@@ -13,5 +13,3 @@ citation: ''
 ---
 
 <a href='https://cassee.dev/files/bot_or_not.pdf'>Download paper here</a>
-
-Recommended citation: 
