@@ -130,7 +130,7 @@ for paper in publications:
     author_strings = []
     for author in paper["authors"]:
         first_name = author.split(" ")[0]
-        last_name = author.split(" ")[1]
+        last_name = author.split(" ")[-1]
 
         author_strings.append(f"{first_name[0]}. {last_name}")
 
