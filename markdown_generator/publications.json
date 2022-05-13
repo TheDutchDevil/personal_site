@@ -45,6 +45,21 @@
             "venue": "ICSME, NIER Track",
             "filename": "bot_or_not.pdf",
             "date": "2021-09-28"
+        },
+        {
+            "id": "satd-and-polarity",
+            "type": "Journal",
+            "title": "Self-Admitted Technical Debt and Comments' Polarity: An Empirical Study",
+            "authors": [
+                "Nathan Cassee",
+                "Fiorella Zampetti",
+                "Nicole Novielli",
+                "Alexander Serebrenik",
+                "Massimiliano Di Penta"
+            ],
+            "venue": "EMSE",
+            "filename": "satd-and-polarity.pdf",
+            "date": "2022-05-28"
         }
     ]
 }
