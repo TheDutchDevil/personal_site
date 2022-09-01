@@ -60,6 +60,17 @@
             "venue": "EMSE",
             "filename": "satd-and-polarity.pdf",
             "date": "2022-05-28"
+        },
+        {
+            "id": "esec-fse-doctoral",
+            "type": "Conference",
+            "title": "Sentiment in Software Engineering: Detection and Application",
+            "authors": [
+                "Nathan Cassee"
+            ],
+            "venue": "ESEC/FSE, Doctoral Symposium",
+            "filename": "esec-fse-doctoral.pdf",
+            "date": "2022-11-17"
         }
     ]
 }
