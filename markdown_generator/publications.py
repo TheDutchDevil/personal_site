@@ -32,17 +32,6 @@ import pandas as pd
 # 
 # I found it important to put this data in a tab-separated values format, because there are a lot of commas in this kind of data and comma-separated values can get messed up. However, you can modify the import statement, as pandas also has read_excel(), read_json(), and others.
 
-# In[3]:
-
-publications = pd.read_csv("publications.csv", header=0)
-
-publications = publications.fillna('')
-
-
-# ## Escape special characters
-# 
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
-
 # In[4]:
 
 html_escape_table = {
@@ -63,62 +52,6 @@ def html_escape(text):
 # In[5]:
 
 import os
-for row, item in publications.iterrows():
-    
-    md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
-    html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = item.pub_date[:4]
-    
-    ## YAML variables
-    
-    md = "---\ntitle: \""   + item.title + '"\n'
-    
-    md += """collection: publications"""
-    
-    md += """\npermalink: /publication/""" + html_filename
-
-    md += "\nauthors: " + str(item.authors) 
-    
-    if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
-    
-    md += "\ndate: " + str(item.pub_date) 
-
-    md += "\ntype: " + str(item.type)
-    
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
-
-    if len(item.slides_url) >= 0:
-        md += "\nslidesurl: '" + item.slides_url + "'"      
-
-    if len(item.repo_url) >= 0:
-        md += "\nrepourl: '" + item.repo_url + "'"
-    
-
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
-    
-    md += "\n---"
-    
-    ## Markdown description for individual page
-    
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
-        
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
-        
-    if len(item.citation) > 0:
-        md += "\nRecommended citation: " + item.citation
-    
-    md_filename = os.path.basename(md_filename)
-       
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
-
-
 import json
 
 with open('publications.json', 'r') as f:

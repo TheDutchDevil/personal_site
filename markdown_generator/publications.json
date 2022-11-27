@@ -71,6 +71,74 @@
             "venue": "ESEC/FSE, Doctoral Symposium",
             "filename": "esec-fse-doctoral.pdf",
             "date": "2022-11-17"
+        },
+        {
+            "id": "satd-sentiment",
+            "type": "Conference",
+            "title": "Waiting around or job half-done? Sentiment in Self-Admitted Technical Debt",
+            "authors": [
+                "Gianmarco Fucci",
+                "Nathan Cassee",
+                "Nicole Novielli",
+                "Fiorella Zampetti",
+                "Alexander Serebrenik",
+                "Massimiliano Di Penta"
+            ],
+            "venue": "MSR 2021",
+            "filename": "waiting-around.pdf",
+            "date": "2021-5-17"
+        },
+        {
+            "id": "ci-helper",
+            "type": "Conference",
+            "title": "The Silent Helper: The Impact of Continuous Integration on Code Reviews",
+            "authors": [
+                "Nathan Cassee",
+                "Bogdan Vasilescu",
+                "Alexander Serebrenik"
+            ],
+            "venue": "SANER 2020",
+            "filename": "CI-silent.pdf",
+            "date": "2020-1-18"
+        },
+        {
+            "id": "swift-errors",
+            "type": "Conference",
+            "title": "How Swift developers handle errors",
+            "authors": [
+                "Nathan Cassee",
+                "Gustavo Pinto",
+                "Fernando Castor",
+                "Alexander Serebrenik"
+            ],
+            "venue": "MSR 2018",
+            "filename": "swift_errors.pdf",
+            "date": "2018-5-27"
+        },
+        {
+            "id": "gpu-hashtables",
+            "type": "Workshop",
+            "title": "Analysing the performance of GPU hash tables for state space exploration",
+            "authors": [
+                "Nathan Cassee",
+                "Anton Wijs"
+            ],
+            "venue": "Graphs as Models 2017",
+            "filename": "gpu-hashtables.pdf",
+            "date": "2017-12-27"
+        },
+        {
+            "id": "gpuexplore-scalability",
+            "type": "Workshop",
+            "title": "On the scalability of the gpuexplore explicit-state model checker",
+            "authors": [
+                "Nathan Cassee",
+                "Thomas Neele",
+                "Anton Wijs"
+            ],
+            "venue": "Graphs as Models 2017",
+            "filename": "gpuexplore-scalability.pdf",
+            "date": "2017-12-27"
         }
     ]
 }
