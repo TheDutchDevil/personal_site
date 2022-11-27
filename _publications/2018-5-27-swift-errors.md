@@ -5,7 +5,7 @@ permalink: /publication/2018-5-27-swift-errors
 authors: N. Cassee, G. Pinto, F. Castor, A. Serebrenik
 date: 2018-5-27
 type: Conference
-venue: 'MSR 2018'
+venue: 'MSR'
 paperurl: 'https://cassee.dev/files/swift_errors.pdf'
 ---
 
