@@ -1,6 +1,23 @@
 {
     "publications": [
         {
+            "id": "acquired-taste",
+            "type": "Conference",
+            "title": "Autonomy Is An Acquired Taste: Exploring Developer Preferences for GitHub Bots",
+            "authors": [
+                "Amir Ghorbani",
+                "Nathan Cassee",
+                "Derek Robinson",
+                "Adam Alami",
+                "Neil Ernst",
+                "Alexander Serebrenik",
+                "Andrzej Wasowski"
+            ],
+            "venue": "ICSE",
+            "filename": "acquired-taste.pdf",
+            "date": "2023-05-14"
+        },
+        {
             "id": "asfbot",
             "type": "Conference",
             "title": "Between JIRA and GitHub: ASFBot and its Influence on Human Comments in Issue Trackers",
