@@ -187,6 +187,9 @@ collections:
   stuff:
     output: true
     permalink: /:collection/:path/
+  service:
+    output: true
+    permaling: /:collection/:path/
 
 
 # Defaults
@@ -228,6 +231,13 @@ defaults:
   - scope:
       path: ""
       type: stuff
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: service
     values:
       layout: single
       author_profile: true
