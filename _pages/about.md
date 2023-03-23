@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 Hiya, I'm Nathan, a PhD-TA student at the 
-[Software Engineering and Technology](https://www.tue.nl/en/research/research-groups/software-engineering-and-technology/) 
+[Software Engineering and Technology](https://set.win.tue.nl/) 
 group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of 
-[Alexander Serebrenik](https://www.win.tue.nl/~aserebre/). My research interest is human aspects of Software Engineering, and currently
-I'm focusing on how emotions, are expressed by open source software developers and how the expression of emotions influences 
-Software Development.
+[Alexander Serebrenik](https://www.win.tue.nl/~aserebre/). My research interest is Human Aspects of Software Engineering, 
+and I believe that we can help software engineers write better software through a better understanding of 
+human aspects. For my PhD thesis, I attempt to understand how emotions and sentiment are expressed by software 
+developers and how the expression of emotions and sentiment influences Software Development.
 
-However, I've also studied bots, code reviews and continuous integration, error handling by Apple Swift developers, and GPU-accelerated 
-model checking. For a complete overview of my work please check out the list of [publications](publications). 
+For an overview of my work please check out the list of [publications](publications) I have co-authored. 
+In addition to the research into sentiment and emotions I've also studied bots, code reviews and continuous integration, 
+error handling by Apple Swift developers, and GPU-accelerated model checking. 
 
 Background
 ========
