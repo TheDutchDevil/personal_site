@@ -13,7 +13,7 @@ Conferences
 ========
 {% for post in site.service reversed %}
   {% if post.type == "Conference Organization" %}
-    {% include slim-pub.html %}
+    {% include slim-service.html %}
   {% endif %}
 {% endfor %}
 
@@ -22,6 +22,6 @@ Program Committees
 
 {% for post in site.service reversed %}
   {% if post.type == "Program Committee" %}
-    {% include slim-pub.html %}
+    {% include slim-service.html %}
   {% endif %}
 {% endfor %}
