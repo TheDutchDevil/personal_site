@@ -3,7 +3,7 @@
 <div class="{{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-        {% if post.year %}[{{post.year}}]{% endif %} <i>{{ post.description }}</i>        
+        {% if post.type != "Journal Review" %}[{{post.year}}]{% endif %} <i>{{ post.description }}</i>        
 
     </article>
   </div>
