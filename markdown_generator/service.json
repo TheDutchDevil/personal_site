@@ -35,6 +35,21 @@
             "type": "Conference Organization",
             "description": "Web Chair for Source Code Analysis and Manipulation (SCAM)",
             "year": 2021
+        },
+        {
+            "type": "Journal Review",
+            "description": "TSE",
+            "year": 2022
+        },
+        {
+            "type": "Journal Review",
+            "description": "EMSE",
+            "year": 2022
+        },
+        {
+            "type": "Journal Review",
+            "description": "JSS",
+            "year": 2023
         }
     ]
 }

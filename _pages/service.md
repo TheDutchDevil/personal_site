@@ -17,9 +17,17 @@ Conferences
 
 Program Committees
 --------
-
 {% for post in site.service reversed %}
   {% if post.type == "Program Committee" %}
     {% include slim-service.html %}
   {% endif %}
 {% endfor %}
+
+Journals I've Reviewed for
+--------
+{% for post in site.service reversed %}
+  {% if post.type == "Journal Review" %}
+    {% include slim-service.html %}
+  {% endif %}
+{% endfor %}
+
