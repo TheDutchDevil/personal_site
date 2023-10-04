@@ -13,22 +13,22 @@
         },
         {
             "type": "Program Committee",
-            "description": "BotSE workshop",
+            "description": "Bots in Software Engineering (BotSE) workshop",
             "year": 2023
         },
         {
             "type": "Program Committee",
-            "description": "NLBSE workshop",
+            "description": "NL-based Software Engineering (NLBSE) workshop",
             "year": 2023
         }, 
         {
             "type": "Program Committee",
-            "description": "MSR Junior PC",
+            "description": "Mining Software Repositories (MSR) Junior PC",
             "year": 2023
         },
         {
             "type": "Program Committee",
-            "description": "MSR Junior PC",
+            "description": "Mining Software Repositories (MSR) Junior PC",
             "year": 2021
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "type": "Journal Review",
-            "description": "TSE",
+            "description": "IEEE Transactions on Software Engineering (TSE)",
             "year": 2022
         },
         {
             "type": "Journal Review",
-            "description": "EMSE",
+            "description": "Empirical Software Engineering (EMSE)",
             "year": 2022
         },
         {
             "type": "Journal Review",
-            "description": "JSS",
+            "description": "Journal of Systems and Software (JSS)",
             "year": 2023
         }
     ]
