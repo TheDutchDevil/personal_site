@@ -1,6 +1,19 @@
 {
     "publications": [
         {
+            "id": "saner-rene-replication",
+            "type": "Conference",
+            "title": "Sentiment of Technical Debt Security Questions on Stack Overflow: A Replication Study",
+            "authors": [
+                "Jarl Jansen",
+                "Nathan Cassee",
+                "Alexander Serebrenik"
+            ],
+            "venue": "SANER, RENE Track",
+            "date": "2024-03-15",
+            "filename": "rene-replication-sentiment.pdf"
+        },
+        {
             "id": "acquired-taste",
             "type": "Conference",
             "title": "Autonomy Is An Acquired Taste: Exploring Developer Preferences for GitHub Bots",

@@ -1,8 +1,14 @@
 {
     "data": 
     [
+        
         {
-            "type":"Conference Organization",
+            "type": "Program Committee",
+            "description": "NL-based Software Engineering (NLBSE) workshop",
+            "year": 2024
+        },
+        {
+            "type":"Program Committee",
             "description": "International Conference on Evaluation and Assessment in Software Engineering (EASE)",
             "year": 2024
         },
@@ -54,6 +60,11 @@
         {
             "type": "Journal Review",
             "description": "Journal of Systems and Software (JSS)",
+            "year": 2023
+        },
+        {
+            "type": "Journal Review",
+            "description": "Transactions on Software Engineering and Methodology (TOSEM)",
             "year": 2023
         }
     ]
