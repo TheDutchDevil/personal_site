@@ -1,6 +1,21 @@
 {
     "publications": [
         {
+            "id": "meta-tokenization-transformers",
+            "type": "Journal",
+            "title": "Transformers and Meta-Tokenization in Sentiment Analysis for Software Engineering",
+            "authors": [
+                "Nathan Cassee",
+                "Andrei Agaronian",
+                "Eleni Constantinou",
+                "Nicole Novielli", 
+                "Alexander Serebrenik"
+            ],
+            "venue": "EMSE",
+            "date": "2024-02-16",
+            "filename": "meta-tokenization-transformers.pdf"
+        },
+        {
             "id": "saner-rene-replication",
             "type": "Conference",
             "title": "Sentiment of Technical Debt Security Questions on Stack Overflow: A Replication Study",
