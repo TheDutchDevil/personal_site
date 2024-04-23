@@ -2,7 +2,7 @@
 title: "Sentiment in Software Engineering: Detection and Application"
 collection: publications
 permalink: /publication/2022-11-17-esec-fse-doctoral
-authors: N. Cassee
+authors: N. ['Cassee']
 date: 2022-11-17
 type: Conference
 venue: 'ESEC/FSE, Doctoral Symposium'

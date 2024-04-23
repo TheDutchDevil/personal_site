@@ -2,7 +2,7 @@
 title: "Self-Admitted Technical Debt and Comments' Polarity: An Empirical Study"
 collection: publications
 permalink: /publication/2022-05-28-satd-and-polarity
-authors: N. Cassee, F. Zampetti, N. Novielli, A. Serebrenik, M. Penta
+authors: N. ['Cassee'], F. ['Zampetti'], N. ['Novielli'], A. ['Serebrenik'], M. ['Di', 'Penta']
 date: 2022-05-28
 type: Journal
 venue: 'EMSE'
