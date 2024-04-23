@@ -65,7 +65,7 @@ for paper in publications:
         first_name = author.split(" ")[0]
         last_name = author.split(" ")[1:]
 
-        author_strings.append(f"{first_name[0]}. {last_name}")
+        author_strings.append(f"{first_name[0]}. {' '.join(last_name)}")
 
     author_string = ", ".join(author_strings)
 
