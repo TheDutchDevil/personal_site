@@ -9,7 +9,7 @@ author_profile: true
 
 I'm very grateful to have received the following recognition for my work:
 
-{% for award in site.awards %}
+{% for award in site.awards reversed %}
     {% include slim-award.html %}
 {% endfor %}
 
