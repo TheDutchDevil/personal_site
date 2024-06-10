@@ -5,7 +5,7 @@ permalink: /publication/2023-05-14-acquired-taste
 authors: A. Ghorbani, N. Cassee, D. Robinson, A. Alami, N. Ernst, A. Serebrenik, A. Wasowski
 date: 2023-05-14
 type: Conference
-venue: 'ICSE'
+venue: 'IEEE/ACM International Conference on Software Engineering (ICSE)'
 paperurl: 'https://cassee.dev/files/acquired-taste.pdf'
 ---
 

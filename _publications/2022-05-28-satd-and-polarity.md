@@ -5,7 +5,7 @@ permalink: /publication/2022-05-28-satd-and-polarity
 authors: N. Cassee, F. Zampetti, N. Novielli, A. Serebrenik, M. Di Penta
 date: 2022-05-28
 type: Journal
-venue: 'EMSE'
+venue: 'Empirical Software Engineering (EMSE)'
 paperurl: 'https://cassee.dev/files/satd-and-polarity.pdf'
 ---
 

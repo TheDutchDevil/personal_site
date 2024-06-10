@@ -11,7 +11,7 @@
                 "Nicole Novielli", 
                 "Alexander Serebrenik"
             ],
-            "venue": "EMSE",
+            "venue": "Empirical Software Engineering (EMSE)",
             "date": "2024-02-16",
             "filename": "meta-tokenization-transformers.pdf"
         },
@@ -24,7 +24,7 @@
                 "Nathan Cassee",
                 "Alexander Serebrenik"
             ],
-            "venue": "SANER, RENE Track",
+            "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Reproducibility Studies and Negative Results (RENE) Track",
             "date": "2024-03-15",
             "filename": "rene-replication-sentiment.pdf"
         },
@@ -41,7 +41,7 @@
                 "Alexander Serebrenik",
                 "Andrzej Wasowski"
             ],
-            "venue": "ICSE",
+            "venue": "IEEE/ACM International Conference on Software Engineering (ICSE)",
             "filename": "acquired-taste.pdf",
             "date": "2023-05-14"
         },
@@ -57,7 +57,7 @@
                 "Nathan Cassee",
                 "Alexander Serebrenik"
             ],
-            "venue": "MSR, Mining Challenge",
+            "venue": "IEEE/ACM International Conference on Mining Software Repositories (MSR), Mining Challenge",
             "filename": "asfbot.pdf",
             "date": "2022-05-24"
         },
@@ -73,7 +73,7 @@
                 "Nicole Novielli",
                 "Michele Lanza"
             ],
-            "venue": "TOSEM",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
             "filename": "om-slr.pdf",
             "date": "2022-07-01"
         },
@@ -87,7 +87,7 @@
                 "Eleni Constantinou",
                 "Alexander Serebrenik"
             ],
-            "venue": "ICSME, NIER Track",
+            "venue": "International Conference on Software Maintenance and Evolution (ICSME), NIER Track",
             "filename": "bot_or_not.pdf",
             "date": "2021-09-28"
         },
@@ -102,7 +102,7 @@
                 "Alexander Serebrenik",
                 "Massimiliano Di Penta"
             ],
-            "venue": "EMSE",
+            "venue": "Empirical Software Engineering (EMSE)",
             "filename": "satd-and-polarity.pdf",
             "date": "2022-05-28"
         },
@@ -113,7 +113,7 @@
             "authors": [
                 "Nathan Cassee"
             ],
-            "venue": "ESEC/FSE, Doctoral Symposium",
+            "venue": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), Doctoral Symposium",
             "filename": "esec-fse-doctoral.pdf",
             "date": "2022-11-17"
         },
@@ -129,7 +129,7 @@
                 "Alexander Serebrenik",
                 "Massimiliano Di Penta"
             ],
-            "venue": "MSR 2021",
+            "venue": "IEEE/ACM International Conference on Mining Software Repositories (MSR)",
             "filename": "waiting-around.pdf",
             "date": "2021-5-17"
         },
@@ -142,7 +142,7 @@
                 "Bogdan Vasilescu",
                 "Alexander Serebrenik"
             ],
-            "venue": "SANER",
+            "venue": "IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
             "filename": "CI-silent.pdf",
             "date": "2020-1-18"
         },
@@ -156,7 +156,7 @@
                 "Fernando Castor",
                 "Alexander Serebrenik"
             ],
-            "venue": "MSR",
+            "venue": "IEEE/ACM International Conference on Mining Software Repositories (MSR)",
             "filename": "swift_errors.pdf",
             "date": "2018-5-27"
         },
@@ -168,7 +168,7 @@
                 "Nathan Cassee",
                 "Anton Wijs"
             ],
-            "venue": "Graphs as Models",
+            "venue": "Graphs as Models (GAM)",
             "filename": "gpu-hashtables.pdf",
             "date": "2017-12-27"
         },
@@ -181,7 +181,7 @@
                 "Thomas Neele",
                 "Anton Wijs"
             ],
-            "venue": "Graphs as Models",
+            "venue": "Graphs as Models (GAM)",
             "filename": "gpuexplore-scalability.pdf",
             "date": "2017-12-27"
         }

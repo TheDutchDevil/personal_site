@@ -5,7 +5,7 @@ permalink: /publication/2021-5-17-satd-sentiment
 authors: G. Fucci, N. Cassee, N. Novielli, F. Zampetti, A. Serebrenik, M. Di Penta
 date: 2021-5-17
 type: Conference
-venue: 'MSR 2021'
+venue: 'IEEE/ACM International Conference on Mining Software Repositories (MSR)'
 paperurl: 'https://cassee.dev/files/waiting-around.pdf'
 ---
 

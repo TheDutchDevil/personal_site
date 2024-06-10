@@ -5,7 +5,7 @@ permalink: /publication/2024-02-16-meta-tokenization-transformers
 authors: N. Cassee, A. Agaronian, E. Constantinou, N. Novielli, A. Serebrenik
 date: 2024-02-16
 type: Journal
-venue: 'EMSE'
+venue: 'Empirical Software Engineering (EMSE)'
 paperurl: 'https://cassee.dev/files/meta-tokenization-transformers.pdf'
 ---
 

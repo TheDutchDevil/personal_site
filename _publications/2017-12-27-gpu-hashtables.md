@@ -5,7 +5,7 @@ permalink: /publication/2017-12-27-gpu-hashtables
 authors: N. Cassee, A. Wijs
 date: 2017-12-27
 type: Workshop
-venue: 'Graphs as Models'
+venue: 'Graphs as Models (GAM)'
 paperurl: 'https://cassee.dev/files/gpu-hashtables.pdf'
 ---
 
