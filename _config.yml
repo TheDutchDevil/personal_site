@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Cassee"
+title                    : "Nathan Cassee, PhD"
 title_separator          : ""
 name                     : &name "Nathan Cassee"
 description              : &description "personal description"
@@ -78,7 +78,7 @@ social:
 author:
   name             : "About me"
   avatar           : "portrait_me_2022.jpg"
-  bio              : "I'm a PhD student at the Computer Science department of the TU/e working on human aspects of Software Engineering"
+  bio              : "I'm a software engineering research. Defended my PhD at the Computer Science department of the TU/e"
   location         : "Eindhoven, The Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   instagram        : NathanCassee
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : nathan-cassee-a92a9b154
   pinterest        :
   soundcloud       :
   stackoverflow    : "2828908/thedutchdevil"
