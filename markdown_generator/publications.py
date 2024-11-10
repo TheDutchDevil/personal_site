@@ -89,7 +89,8 @@ for paper in publications:
 
     md += "\ntype: " + paper["type"]
     
-    md += "\nvenue: '" + html_escape(paper["venue"]) + "'"
+    if "venue" in paper:
+        md += "\nvenue: '" + html_escape(paper["venue"]) + "'"
     
     md += "\npaperurl: '" + paper_url + "'"
 

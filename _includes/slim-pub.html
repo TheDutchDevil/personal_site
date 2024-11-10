@@ -5,7 +5,7 @@
 
         <p>[{{ post.date | date: '%Y'}}] <b>{{ post.title }}</b> &mdash; <i>{{ post.authors }}</i>
             <br>
-            Published at {{ post.venue }}. <a href=" {{ post.paperurl }} "><u>Paper</u></a>. 
+            {% if post.venue.size > 0 %} Published at {{ post.venue }}. {% endif %} <a href=" {{ post.paperurl }} "><u>Paper</u></a>. 
             {% if post.slidesurl.size > 0 %} <a href=" {{ post.slidesurl }} "><u>Slides</u></a>. {% endif %}
             {% if post.repourl.size > 0  %} <a href=" {{ post.repourl }} "><u>Repository</u></a>. {% endif %}
         </p>

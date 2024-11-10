@@ -184,6 +184,16 @@
             "venue": "Graphs as Models (GAM)",
             "filename": "gpuexplore-scalability.pdf",
             "date": "2017-12-27"
+        },
+        {
+            "id": "phd-thesis",
+            "type": "Thesis",
+            "title": "Sentiment in Software Engineering",
+            "authors": [
+                "Nathan Cassee"
+            ],
+            "filename": "PhD_Thesis_Nathan_Cassee.pdf",
+            "date": "2024-10-31"
         }
     ]
 }

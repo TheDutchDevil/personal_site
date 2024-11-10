@@ -27,6 +27,14 @@ Conference papers
   {% endif %}
 {% endfor %}
 
+Thesis
+=========
+{% for post in site.publications reversed %}
+  {% if post.type == "Thesis" %}
+    {% include slim-pub.html %}
+  {% endif %}
+{% endfor %}
+
 Workshop papers
 ======
 
