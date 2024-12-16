@@ -186,7 +186,7 @@
             "date": "2017-12-27"
         },
         {
-            "id": "phd-thesis",
+            "id": "phd-thesis", 
             "type": "Thesis",
             "title": "Sentiment in Software Engineering",
             "authors": [
