@@ -27,19 +27,27 @@ Conference papers
   {% endif %}
 {% endfor %}
 
-Thesis
-=========
-{% for post in site.publications reversed %}
-  {% if post.type == "Thesis" %}
-    {% include slim-pub.html %}
-  {% endif %}
-{% endfor %}
-
 Workshop papers
 ======
 
 {% for post in site.publications reversed %}
   {% if post.type == "Workshop" %}
+    {% include slim-pub.html %}
+  {% endif %}
+{% endfor %}
+
+Book Chapters
+=========
+{% for post in site.publications reversed %}
+  {% if post.type == "Chapter" %}
+    {% include slim-pub.html %}
+  {% endif %}
+{% endfor %}
+
+Thesis
+=========
+{% for post in site.publications reversed %}
+  {% if post.type == "Thesis" %}
     {% include slim-pub.html %}
   {% endif %}
 {% endfor %}

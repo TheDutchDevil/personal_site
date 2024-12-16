@@ -26,7 +26,10 @@ for paper in publications:
     
     year = paper["date"][:4]
 
-    paper_string = f"\\years{{{year}}} {author_string} ({year}), ``{paper['title']}'' in {paper['venue']}. \\\\"
+    if "venue" in paper:
+        paper_string = f"\\years{{{year}}} {author_string} ({year}), ``{paper['title']}'' in {paper['venue']}. \\\\"
+    else:
+        paper_string = f"\\years{{{year}}} {author_string} ({year}), ``{paper['title']}''. \\\\"
     
     if paper["type"] not in output_publications:
         output_publications[paper["type"]] = []

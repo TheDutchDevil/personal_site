@@ -194,6 +194,17 @@
             ],
             "filename": "PhD_Thesis_Nathan_Cassee.pdf",
             "date": "2024-10-31"
+        },
+        {
+            "id": "empirical-teaching-chapter",
+            "type": "Chapter",
+            "title": "Teaching Empirical Methods at Eindhoven University of Technology",
+            "authors": [
+                "Alexander Serebrenik",
+                "Nathan Cassee"
+            ],
+            "filename": "empirical-teaching-chapter.pdf",
+            "date": "2024-08-01"
         }
     ]
 }
