@@ -205,6 +205,19 @@
             ],
             "filename": "empirical-teaching-chapter.pdf",
             "date": "2024-08-01"
+        }, 
+        {
+            "id": "satd-sentiment-experiment",
+            "type": "Journal",
+            "title": "Negativity in Self-Admitted Technical Debt: How Sentiment Influences Prioritization",
+            "authors": [
+                "Nathan Cassee",
+                "Neil Ernst",
+                "Nicole Novielli",
+                "Alexander Serebrenik"
+            ],
+            "filename": "Sentiment_in_SATD_pre_print.pdf",
+            "date": "2024-12-29"
         }
     ]
 }
