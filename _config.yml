@@ -78,11 +78,11 @@ social:
 author:
   name             : "About me"
   avatar           : "portrait_me_2022.jpg"
-  bio              : "I'm a software engineering research. Defended my PhD at the Computer Science department of the TU/e"
-  location         : "Eindhoven, The Netherlands"
+  bio              : "I'm a software engineering researcher. Defended my PhD at Eindhoven University of Technology. Currently working as a postdoc at the University of Victoria"
+  location         : "Victoria, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
-  email            :  "n.w.cassee@tue.nl"
+  email            :  "nathancassee@uvic.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
