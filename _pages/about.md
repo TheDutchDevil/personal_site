@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hiya, I am Nathan, a software engineering researcher, currently working as a post-doc at the University of Victoria. I defended my PhD cum laude at the [Software Engineering and Technology](https://set.win.tue.nl/) group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/) and [Nicole Novielli](https://collab.di.uniba.it/nicole/). 
+Hiya, I am Nathan, a software engineering researcher, currently working as a post-doc at the University of Victoria with prof. [Margaret-Anne Storey](https://www.margaretstorey.com/) and prof. [Neil Ernst](https://neilernst.net/). I defended my PhD cum laude at the [Software Engineering and Technology](https://set.win.tue.nl/) group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/) and [Nicole Novielli](https://collab.di.uniba.it/nicole/).
 My research interest is Human Aspects of Software Engineering, and I believe that we can help software engineers write better software through a better understanding of 
 human aspects. 
 
