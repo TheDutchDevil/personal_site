@@ -2,6 +2,16 @@
     "data": 
     [
         {
+            "type": "Conference Organization",
+            "description": "Junior Program Committee Co-Chair for the 23rd International Conference on Mining Software Repositories (MSR)",
+            "year": 2026
+        },
+        {
+            "type":"Conference Organization",
+            "description": "Lightning Track Co-Chair for the 19th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)",
+            "year": 2026
+        },
+        {
             "type": "Program Committee",
             "description": "International Conference on Evaluation and Assessment in Software Engineering (EASE) Posters and Vision Track Track",
             "year": 2025
@@ -85,6 +95,11 @@
             "type":"Program Committee",
             "description": "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)",
             "year": 2025
+        }, 
+        {
+            "type":"Program Committee",
+            "description": "International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)",
+            "year": 2026
         }
     ]
 }
