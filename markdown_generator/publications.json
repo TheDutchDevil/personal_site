@@ -1,6 +1,21 @@
 {
     "publications": [
         {
+            "id": "student-barriers",
+            "type": "Conference",
+            "title": "What barriers do students experience when trying to contribute to Open Source Software projects?",
+            "authors": [
+                "Nathan Cassee",
+                "Sankarsh Ravi",
+                "Italo Santos",
+                "Igor Steinmacher",
+                "Alexander Serebrenik"
+            ],
+            "venue": "2026 IEEE/ACM 48th International Conference on Software Engineering Education and Training (ICSE-SEET)",
+            "date": "2026-04-17",
+            "filename": "student-barriers.pdf"
+        },
+        {
             "id": "meta-tokenization-transformers",
             "type": "Journal",
             "title": "Transformers and Meta-Tokenization in Sentiment Analysis for Software Engineering",
@@ -219,6 +234,34 @@
             "filename": "Sentiment_in_SATD_pre_print.pdf",
             "venue": "Empirical Software Engineering (EMSE)",
             "date": "2024-12-29"
+        },
+        {
+            "id": "multiverses",
+            "type": "Preprint",
+            "title": "Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis",
+            "authors": [
+                "Nathan Cassee",
+                "Robert Feldt"
+            ],
+            "filename": "multiverses.pdf",
+            "date": "2026-01-08",
+            "venue": "Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)"
+        },
+        {
+            "id": "code-review-engagement",
+            "type": "Preprint",
+            "title": "Engagement in Code Review: Emotional, Behavioral, and Cognitive Dimensions in Peer vs. LLM Interactions",
+            "authors": [
+                "Adam Alami",
+                "Nathan Cassee",
+                "Thiago Rocha Silva",
+                "Elda Paja", 
+                "Neil Ernst"
+            ],
+            "filename": "code-review-engagement.pdf",
+            "date": "2026-01-08",
+            "venue": "Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)"
+
         }
     ]
 }
