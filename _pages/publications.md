@@ -10,6 +10,14 @@ author_profile: true
 See below for list of publications sorted on the type of venue where the work has been published. If
 you have any questions do not hesitate to contact me.
 
+Preprints
+========
+{% for post in site.publications reversed %}
+  {% if post.type == "Preprint" %}
+    {% include slim-pub.html %}
+  {% endif %}
+{% endfor %}
+
 Journal papers
 ========
 {% for post in site.publications reversed %}
