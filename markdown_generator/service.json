@@ -3,6 +3,11 @@
     [
         {
             "type":"Program Committee",
+            "description": "Awards Committee member for the 23rd International Conference on Mining Software Repositories (MSR)",
+            "year": 2026
+        },
+        {
+            "type":"Program Committee",
             "description": "33rd edition of the IEEE International Conference on Software Analysis, Evolution, and Reengineering Short Papers and Posters Track (SANER-Posters)",
             "year": 2026
         },
@@ -19,6 +24,11 @@
         {
             "type": "Conference Organization",
             "description": "Junior Program Committee Co-Chair for the 23rd International Conference on Mining Software Repositories (MSR)",
+            "year": 2026
+        },
+        {
+            "type":"Program Committee",
+            "description": "19th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)",
             "year": 2026
         },
         {
