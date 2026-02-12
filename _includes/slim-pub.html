@@ -12,7 +12,7 @@
         <p class="pub-venue">{% if post.type == "Preprint" %}{{ post.venue }}{% else %}{{ post.venue }}{% endif %}</p>
         {% endif %}
         <div class="pub-links">
-            <a href="{{ post.paperurl }}" class="pub-link pub-link--paper">Paper</a>
+            <a href="{{ post.paperurl }}" class="pub-link pub-link--paper">Download</a>
             {% if post.slidesurl.size > 0 %}<a href="{{ post.slidesurl }}" class="pub-link pub-link--slides">Slides</a>{% endif %}
             {% if post.repourl.size > 0 %}<a href="{{ post.repourl }}" class="pub-link pub-link--repo">Code</a>{% endif %}
         </div>
