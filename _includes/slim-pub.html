@@ -6,16 +6,20 @@
             <span class="pub-year">{{ post.date | date: '%Y'}}</span>
             <span class="pub-badge pub-badge--{{ post.type | downcase }}">{{ post.type }}</span>
         </div>
-        <h3 class="pub-title">{{ post.title }}</h3>
+        <div class="pub-title-row">
+            <h3 class="pub-title">{{ post.title }}</h3>
+            <a href="{{ post.paperurl }}" class="pub-link pub-link--paper">Download</a>
+        </div>
         <p class="pub-authors">{{ post.authors }}</p>
         {% if post.venue.size > 0 %}
         <p class="pub-venue">{% if post.type == "Preprint" %}{{ post.venue }}{% else %}{{ post.venue }}{% endif %}</p>
         {% endif %}
+        {% if post.slidesurl.size > 0 or post.repourl.size > 0 %}
         <div class="pub-links">
-            <a href="{{ post.paperurl }}" class="pub-link pub-link--paper">Download</a>
             {% if post.slidesurl.size > 0 %}<a href="{{ post.slidesurl }}" class="pub-link pub-link--slides">Slides</a>{% endif %}
             {% if post.repourl.size > 0 %}<a href="{{ post.repourl }}" class="pub-link pub-link--repo">Code</a>{% endif %}
         </div>
+        {% endif %}
     </article>
 </div>
   
