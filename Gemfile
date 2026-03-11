@@ -19,7 +19,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "liquid", "~> 4.0.4"
 gem "sassc", "~> 2.0"
-gem "jekyll-sass-converter", "~> 2.0"
+gem "jekyll-sass-converter"
 
 gem 'jekyll-paginate'
 gem 'jekyll-gist'
