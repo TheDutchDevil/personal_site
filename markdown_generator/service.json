@@ -2,6 +2,26 @@
     "data": 
     [
         {
+            "type": "Program Committee",
+            "description": "The International Symposium on Empirical Software Engineering and Measurement Registered Reports Track (ESEM-RR)",
+            "year": 2026
+        },
+        {
+            "type": "Program Committee",
+            "description": "The 1st International Workshop on Software Engineering for the GenAI Transformation (SEE-AIT)",
+            "year": 2026
+        },
+        {
+            "type": "Program Committee",
+            "description": "The 2nd Workshop on Human-Centered AI for Software Engineering (HumanAISE)",
+            "year": 2026
+        },
+        {
+            "type": "Program Committee",
+            "description": "The ACM International Conference on the Foundations of Software Engineering (FSE)",
+            "year": 2027
+        },
+        {
             "type":"Program Committee",
             "description": "Awards Committee member for the 23rd International Conference on Mining Software Repositories (MSR)",
             "year": 2026
