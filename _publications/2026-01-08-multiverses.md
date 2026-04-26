@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2026-01-08-multiverses
 authors: N. Cassee, R. Feldt
 date: 2026-01-08
-type: Preprint
-venue: 'Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)'
+type: Journal
+venue: 'ACM Transactions on Software Engineering and Methodology (TOSEM)'
 paperurl: 'https://cassee.dev/files/multiverses.pdf'
 ---
 

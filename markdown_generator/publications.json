@@ -237,7 +237,7 @@
         },
         {
             "id": "multiverses",
-            "type": "Preprint",
+            "type": "Journal",
             "title": "Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis",
             "authors": [
                 "Nathan Cassee",
@@ -245,7 +245,7 @@
             ],
             "filename": "multiverses.pdf",
             "date": "2026-01-08",
-            "venue": "Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)"
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
         },
         {
             "id": "code-review-engagement",
