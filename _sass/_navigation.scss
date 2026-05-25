@@ -231,7 +231,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(gold, $primary-color, 50%);
+        background: $accent-soft;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

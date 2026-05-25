@@ -47,24 +47,30 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+/* TUE application palette */
+$accent                     : #1F4E5F; // deep teal
+$accent-soft                : #E6EEF1; // faint teal tint
+$muted                      : #6B7280; // cool grey for secondary info
+$rule                       : #D1D5DB; // light divider rule
+
+$gray                       : $muted;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$light-gray                 : $rule;
+$lighter-gray               : $accent-soft;
 
 $body-color                 : #fff;
-$background-color           : rgb(236, 236, 236);
+$background-color           : $accent-soft;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $darker-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : $accent;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $accent;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -88,18 +94,18 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-$header-background-color:  #052647;
+$header-background-color:  $accent;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $accent;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $accent;
+$masthead-link-color-hover  : mix(#000, $accent, 25%);
 
-$masthead-link-color-dark        : #ffe3b5;
-$masthead-link-color-dark-hover  : mix(gold, $masthead-link-color-dark, 50%);
+$masthead-link-color-dark        : $accent-soft;
+$masthead-link-color-dark-hover  : #fff;
 
 
 /*
