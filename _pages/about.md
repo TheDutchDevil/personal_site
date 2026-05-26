@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hiya, I am Nathan, a software engineering researcher, currently working as a post-doc at the University of Victoria with prof. [Margaret-Anne Storey](https://www.margaretstorey.com/) and prof. [Neil Ernst](https://neilernst.net/). I defended my PhD cum laude at the [Software Engineering and Technology](https://set.win.tue.nl/) group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/) and [Nicole Novielli](https://collab.di.uniba.it/nicole/).
-My research interest is Human Aspects of Software Engineering, and I believe that we can help software engineers write better software through a better understanding of 
-human aspects. 
+I am Nathan, a software engineering researcher currently working as a postdoctoral researcher at the University of Victoria with prof. [Margaret-Anne Storey](https://www.margaretstorey.com/) and prof. [Neil Ernst](https://neilernst.net/). I defended my PhD Cum Laude at the [Software Engineering and Technology](https://set.win.tue.nl/) group of the [Eindhoven University of Technology](https://www.tue.nl/en/), under the supervision of [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/) and [Nicole Novielli](https://collab.di.uniba.it/nicole/). My work has been recognized with the MSR Distinguished Doctoral Research Award, a nomination for the 2025 Eindhoven University of Technology Best PhD Thesis, First Runner-up for the 2025 Informatics Europe Best Dissertation Award, and Third place at the VERSEN PhD Thesis Award.
 
-For my PhD, I studied how software engineers express emotions and sentiment and how the expression of emotions and sentiment influences Software Development. This includes understanding how researchers study emotions and sentiment in software engineering, studying the tools used to classify emotions and sentiment in text automatically, and studying how the expression of emotions and sentiment influences the practice of software engineering. For the full details, you can find my PhD Thesis [here](https://cassee.dev/files/PhD_Thesis_Nathan_Cassee.pdf).
+My research investigates the human and sociotechnical aspects of software engineering: how to capture the productivity benefits of new tooling, particularly AI, without losing the skills, judgment, and collaborative practices that software engineering depends on. I approach this question through a sociotechnical lens grounded in affect, emotions, and decision-making, and I rely on mixed methods because only a combination of qualitative and quantitative work can accurately reveal how tools reshape software practice.
 
-For a complete overview of my work, please check out the list of [publications](publications) I have co-authored. 
-In addition to the research into sentiment and emotions, I've also studied bots, code reviews, and continuous integration, 
-error handling by Apple Swift developers. 
+For my PhD, I studied how software engineers express emotions and sentiment and how that expression influences software development, ranging from how researchers study emotions and sentiment in software engineering, to the tools used to classify them automatically, to how their expression affects day-to-day engineering practice. The full thesis is available [here](https://cassee.dev/files/PhD_Thesis_Nathan_Cassee.pdf). My current postdoctoral work extends this sociotechnical lens to AI in software engineering, where I've found that reliance on AI can lead to emotional disengagement that hinders skill development in novice developers, and that AI is disrupting core social practices such as code review.
+
+For a complete overview, please see my list of [publications](publications). Alongside the work on emotions, sentiment, and AI, I've also studied bots, code reviews, continuous integration, and error handling by Apple Swift developers.
 
 Background
 ========
