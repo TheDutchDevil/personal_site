@@ -1,0 +1,23 @@
+# Nathan Cassee
+
+> Postdoctoral researcher at the University of Victoria studying the human and sociotechnical aspects of software engineering, with a current focus on how generative AI changes collaboration, skill development, and code review in software teams.
+
+Nathan Cassee defended his PhD Cum Laude at the Software Engineering and Technology group of Eindhoven University of Technology, supervised by Alexander Serebrenik and Nicole Novielli. His PhD work studied how software engineers express emotions and sentiment, and how that expression influences software development. His postdoctoral work, with Margaret-Anne Storey and Neil Ernst, extends this lens to AI in software engineering: how reliance on AI can cause emotional disengagement that hinders skill development in novice developers, and how AI is disrupting social practices such as code review.
+
+His PhD thesis received the MSR Distinguished Doctoral Research Award, a nomination for the 2025 TU/e Best PhD Thesis award, First Runner-up for the 2025 Informatics Europe Best Dissertation Award, and Third place at the VERSEN PhD Thesis Award.
+
+## Key pages
+
+- [About](https://cassee.dev/): Biography, research focus, and background
+- [Publications](https://cassee.dev/publications): Full list of peer-reviewed publications
+- [CV](https://cassee.dev/cv): Curriculum vitae
+- [Talks](https://cassee.dev/talks): Invited talks and presentations
+- [Service](https://cassee.dev/service): Academic service and reviewing
+- [Awards](https://cassee.dev/awards): Awards and recognitions
+
+## Identity
+
+- Google Scholar: https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0002-6511-918X
+- GitHub: https://github.com/TheDutchDevil
+- LinkedIn: https://www.linkedin.com/in/nathan-cassee-a92a9b154

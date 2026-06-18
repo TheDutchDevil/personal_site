@@ -2,3 +2,5 @@ _site/
 
 .DS_Store
 .specstory
+.vscode
+.copilot_chat_logs

@@ -62,13 +62,19 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "me_2025_small.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : *name
+  links:
+    - "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
+    - "https://orcid.org/0000-0002-6511-918X"
+    - "https://github.com/TheDutchDevil"
+    - "https://www.linkedin.com/in/nathan-cassee-a92a9b154"
+    - "https://twitter.com/NathanCassee"
+    - "https://stackoverflow.com/users/2828908/thedutchdevil"
 
 
 # Analytics has been moved the head.html file.
@@ -76,12 +82,13 @@ social:
 
 # Site Author
 author:
-  name             : "About me"
+  name             : *name
   avatar           : "me_2025_small.jpg"
   bio              : "Postdoctoral Researcher at the University of Victoria, Canada. Studying how generative AI changes collaboration in software engineering."
   location         : "Victoria, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0002-6511-918X"
   email            :  "nathancassee@uvic.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
