@@ -84,12 +84,12 @@ social:
 author:
   name             : *name
   avatar           : "me_2025_small.jpg"
-  bio              : "Postdoctoral Researcher at the University of Victoria, Canada. Studying how generative AI changes collaboration in software engineering."
-  location         : "Victoria, Canada"
+  bio              : "Experienced software engineering researcher (PhD) with a background in DevOps. Leading research, supervising researchers, and advising on software and AI."
+  location         : "The Netherlands"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=COjrHmQAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-6511-918X"
-  email            :  "nathancassee@uvic.ca"
+  email            : # UVic address removed, add a new contact address here
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
