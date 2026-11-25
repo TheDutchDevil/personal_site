@@ -249,7 +249,7 @@
         },
         {
             "id": "code-review-engagement",
-            "type": "Preprint",
+            "type": "Journal",
             "title": "Engagement in Code Review: Emotional, Behavioral, and Cognitive Dimensions in Peer vs. LLM Interactions",
             "authors": [
                 "Adam Alami",
@@ -259,9 +259,24 @@
                 "Neil Ernst"
             ],
             "filename": "code-review-engagement.pdf",
-            "date": "2026-01-08",
-            "venue": "Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)"
+            "date": "2026-07-08",
+            "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)"
 
+        },
+        {
+            "id": "judgment-ai-architecture",
+            "type": "Preprint",
+            "title": "Surrendering and Reclaiming Judgment: How Software Engineering Students Experience AI Reliance" ,
+            "authors": [
+                "Nathan Cassee", 
+                "Umit Akirmak",
+                "Luiz Guerra", 
+                "Margaret-Anne Storey", 
+                "Neil Ernst"
+            ],
+            "filename": "judgment_AI_architecture.pdf",
+            "date": "2026-11-01",
+            "venue": "Under Review at ACM Transactions on Software Engineering and Methodology (TOSEM)"
         }
     ]
 }
